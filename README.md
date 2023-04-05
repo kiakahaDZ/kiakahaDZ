@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **React, kubernetes ...etc**
 
-- 💬 Ask me about **Symfony, Vue js, php**
+- 💬 Ask me about **Symfony, Laravel, Vue js, php**
 
 - 📫 How to reach me **bbouakkadia@live.fr**
 
